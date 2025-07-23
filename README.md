@@ -1,0 +1,2 @@
+So basically this is the peoject made in python which is simple like chatgpt,gemini but with simple type it doesn't take any images to describe you just a simple prototype of the chatgpt,gemini
+This AI Assistant("Saifullah The AI Assistant") which takes input in text form and return you the things that you want or guide you with the description it might be you wanted a code you just need to write what type of code you want and in whch language
